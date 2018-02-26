@@ -8,7 +8,7 @@ Data required for running Dashboard
 
 1. The data required for running RShiny dashboard is kept in UBox and can be downloaded from the below link:
 
-https://buffalo.box.com/s/e3aof22qthkc9bgl6oatt7lf4pngboqu
+    https://buffalo.box.com/s/e3aof22qthkc9bgl6oatt7lf4pngboqu
 
 2. Download the entire folder named "CSE587-Term Project-Data" and keep it in the same directory "TermProject" since it has all the other relevant R code. 
 
@@ -103,6 +103,8 @@ RShiny[2], RShiny in RStudio[3]
 References
 ----------
 [1] Tableau Tutorial. https://www.tableau.com/learn/training, last viewed 2017.
+
 [2] RShiny Tutorial. https://shiny.rstudio.com/tutorial/, last viewed 2017.
+
 [3] RShiny in RStudio. https://shiny.rstudio.com/, last viewed 2017.
 
